@@ -150,13 +150,13 @@ export const committees: Committee[] = [
       "As part of the sports team, you'll build community through healthy competition and shared energy.",
   },
   {
-    slug: "media-committee",
-    name: "Media Committee",
+    slug: "media-communications-committee",
+    name: "Media & Communications Committee",
     description: "Capture, create, and communicate the stories that shape BUCC experience.",
     intro:
-      "The Media Team captures, creates, and shares the stories and activities of BUCC through photography, videography, design, and digital content.",
+      "The Media & Communications Team captures, creates, and shares the stories and activities of BUCC through photography, videography, design, and digital content.",
     about:
-      "As a member of the Media Team, you'll help capture, create, and communicate the stories that shape the BUCC experience. You'll work alongside other students to produce visual content, support events, and ensure that important moments within the community are documented and shared effectively. Whether you're interested in photography, videography, graphic design, or digital content creation, this role offers an opportunity to develop practical skills while contributing to a larger mission.",
+      "As a member of the Media & Communications Team, you'll help capture, create, and communicate the stories that shape the BUCC experience. You'll work alongside other students to produce visual content, support events, and ensure that important moments within the community are documented and shared effectively. Whether you're interested in photography, videography, graphic design, or digital content creation, this role offers an opportunity to develop practical skills while contributing to a larger mission.",
     responsibilities: [
       "Covering events through photography, videography, and live media support.",
       "Creating content for social media platforms and digital channels.",
@@ -166,6 +166,6 @@ export const committees: Committee[] = [
     ],
     experienceTitle: "Capture Real Experiences",
     experienceDescription:
-      "As part of the media team, you'll play a crucial role in capturing authentic moments.",
+      "As part of the media & communications team, you'll play a crucial role in capturing authentic moments.",
   },
 ];
