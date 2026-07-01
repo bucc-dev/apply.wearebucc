@@ -131,6 +131,25 @@ export const committees: Committee[] = [
       "As part of the social team, you'll create the moments the community remembers.",
   },
   {
+    slug: "sports-committee",
+    name: "Sports Committee",
+    description: "Organizing sporting activities and promoting fitness culture across BUCC.",
+    intro:
+      "The Sports Team organizes sporting events and promotes an active, healthy lifestyle across the BUCC community.",
+    about:
+      "As a member of the Sports Team, you'll help plan and run sporting activities, inter-faculty competitions, and fitness initiatives that bring energy and community spirit to BUCC. Whether you're passionate about a specific sport or just love bringing people together through healthy competition, this is the place for you.",
+    responsibilities: [
+      "Organizing sporting events, tournaments, and fitness activities.",
+      "Coordinating logistics for inter-faculty and inter-club competitions.",
+      "Promoting a healthy and active lifestyle across the BUCC community.",
+      "Collaborating with other committees to integrate sports into club events.",
+      "Managing equipment, scheduling, and participation registration.",
+    ],
+    experienceTitle: "Play, Compete, Connect",
+    experienceDescription:
+      "As part of the sports team, you'll build community through healthy competition and shared energy.",
+  },
+  {
     slug: "media-committee",
     name: "Media Committee",
     description: "Capture, create, and communicate the stories that shape BUCC experience.",
