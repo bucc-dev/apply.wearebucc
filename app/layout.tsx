@@ -4,7 +4,7 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "BUCC — Apply",
+  title: "BUCC Apply",
   description: "Shape the future of BUCC together.",
 };
 
