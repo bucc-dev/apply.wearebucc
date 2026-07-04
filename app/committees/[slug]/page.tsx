@@ -15,8 +15,11 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { slug } = await params;
   const committee = committees.find((c) => c.slug === slug);
-  if (!committee) return { title: "Committee — BUCC" };
-  return { title: `${committee.name} — BUCC`, description: committee.intro };
+  if (!committee) return { title: "Committee" };
+  return {
+    title: committee.name,
+    description: `${committee.intro} Apply to the ${committee.name} at Babcock University Computer Club.`,
+  };
 }
 
 export default async function CommitteePage({

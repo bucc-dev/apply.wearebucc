@@ -4,8 +4,40 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "BUCC Apply",
-  description: "Shape the future of BUCC together.",
+  title: {
+    default: "Join BUCC, Babcock University Computer Club",
+    template: "%s | BUCC",
+  },
+  description:
+    "Apply to join a committee at the Babcock University Computer Club. Explore open roles in Tech, Media, Academics, Sports, and more — and shape the future of BUCC.",
+  metadataBase: new URL("https://apply.wearebucc.org"),
+  openGraph: {
+    type: "website",
+    url: "https://apply.wearebucc.org ",
+    title: "Join BUCC, Babcock University Computer Club",
+    description:
+      "Apply to join a committee at the Babcock University Computer Club. 2026 applications are now open.",
+    siteName: "BUCC",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "BUCC, Babcock University Computer Club",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Join BUCC, Babcock University Computer Club",
+    description:
+      "2026 BUCC committee applications are open. Find your committee and apply today.",
+    images: ["/og-image.png"],
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export default function RootLayout({
