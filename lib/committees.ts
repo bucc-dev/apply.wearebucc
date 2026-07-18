@@ -19,21 +19,21 @@ export const committees: Committee[] = [
   {
     slug: "academics-committee",
     name: "Academics Committee",
-    description: "Support study programs, workshops, and educational events.",
+    description: "Overseeing student academics and organizing impactful tutorials as well as learning initiatives",
     intro:
-      "The Academics Team supports learning at BUCC through study programs, workshops, and educational events that help students grow.",
+      "The Student Academic Team helps BUCC students succeed through tutorials, curated resources, and technical mentorship.",
     about:
-      "As a member of the Academics Team, you'll help plan and run study programs, tutorials, and academic events that support fellow students. You'll work alongside other committees to create resources, organize workshops, and foster a culture of learning across the community.",
+      "The Student Academic Team helps BUCC students succeed through tutorials, curated resources, and technical mentorship. If you enjoy teaching, helping others grow, and strengthening your own understanding, this team is for you.",
     responsibilities: [
-      "Organizing study groups, tutorials, and academic workshops.",
-      "Creating learning resources and study materials for students.",
-      "Coordinating educational events and guest sessions.",
-      "Collaborating with other committees to support student success.",
-      "Identifying academic needs and proposing helpful initiatives.",
+      "Course tutoring",
+      "Training Program Support",
+      "Tutorial Coordination",
+      "Academic newsletter contribution",
+      "Gathering and preparation of academic materials",
     ],
     experienceTitle: "Build a Culture of Learning",
     experienceDescription:
-      "As part of the academics team, you'll play a key role in helping students learn and grow together.",
+      "A community where sharing knowledge strengthens our own understanding while making learning easier for others.",
   },
   {
     slug: "debate-committee",
