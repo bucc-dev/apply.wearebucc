@@ -37,22 +37,22 @@ export const committees: Committee[] = [
   },
   {
     slug: "debate-committee",
-    name: "Debate Committee",
-    description: "Participate in discussions, debates, and training sessions.",
+    name: "Debate & Quiz Committee",
+    description: "Sharpen your mind, strengthen your voice, and compete with the best.",
     intro:
-      "The Debate Team builds confident communicators through discussions, debates, and regular training sessions.",
+      "The Debate & Quiz Committee is dedicated to promoting critical thinking, public speaking, intellectual curiosity, and academic excellence within BUCC.",
     about:
-      "As a member of the Debate Team, you'll take part in discussions, competitive debates, and training sessions that sharpen your reasoning and public speaking. You'll help organize debate events and mentor others looking to improve their craft.",
+      "The Debate & Quiz Committee is dedicated to promoting critical thinking, public speaking, intellectual curiosity, and academic excellence within BUCC. We organize debates, quiz competitions, and knowledge-driven events while preparing members to represent the club in inter-club and external competitions. This committee is ideal for students who enjoy learning, discussing ideas, solving problems, and challenging themselves intellectually.",
     responsibilities: [
-      "Participating in debates, discussions, and training sessions.",
-      "Organizing internal and inter-faculty debate events.",
-      "Researching topics and preparing compelling arguments.",
-      "Mentoring new members on public speaking and rhetoric.",
-      "Representing BUCC in external debate competitions.",
+      "Participate in debate and quiz training sessions to improve communication, reasoning, and general knowledge.",
+      "Represent BUCC in internal and external debate and quiz competitions.",
+      "Assist in planning and organizing debate tournaments, quizzes, and intellectual events.",
+      "Research current affairs, technology trends, and other relevant topics for debates and quiz competitions.",
+      "Collaborate with committee members to develop, plan, and, organize innovative and engaging intellectual activities for the club.",
     ],
     experienceTitle: "Find Your Voice",
     experienceDescription:
-      "As part of the debate team, you'll grow into a confident speaker and a sharper critical thinker.",
+      "The Debate & Quiz Committee brings together students passionate about critical thinking, public speaking, and intellectual competition. Through debates, quizzes, and knowledge-driven events, members develop communication, research, and analytical skills while representing BUCC in competitions.",
   },
   {
     slug: "development-committee",
