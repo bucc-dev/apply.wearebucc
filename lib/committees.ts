@@ -152,21 +152,21 @@ export const committees: Committee[] = [
   {
     slug: "media-communications-committee",
     name: "Media & Communications Committee",
-    description: "Capture, create, and communicate the stories that shape BUCC experience.",
+    description: "Capturing, creating, and communicating every moment that defines BUCC.",
     intro:
-      "The Media & Communications Team captures, creates, and shares the stories and activities of BUCC through photography, videography, design, and digital content.",
+      "The Media & Communications Committee is the eyes, ears, and voice of BUCC — responsible for photography, videography, graphic design, and written content across all platforms.",
     about:
-      "As a member of the Media & Communications Team, you'll help capture, create, and communicate the stories that shape the BUCC experience. You'll work alongside other students to produce visual content, support events, and ensure that important moments within the community are documented and shared effectively. Whether you're interested in photography, videography, graphic design, or digital content creation, this role offers an opportunity to develop practical skills while contributing to a larger mission.",
+      "The Media & Communications Committee is the eyes, ears, and voice of BUCC — responsible for photography, videography, graphic design, and written content across all platforms. We cover events, run the club's social media presence, and tell the stories that keep the BUCC community informed and engaged. If you're a creative who loves producing content, writing, or getting behind a camera or screen, this is your space.",
     responsibilities: [
-      "Covering events through photography, videography, and live media support.",
-      "Creating content for social media platforms and digital channels.",
-      "Documenting significant activities, testimonies, and community milestones.",
-      "Collaborating with other committees to communicate their initiatives effectively.",
-      "Contributing ideas that improve engagement and strengthen community outreach.",
+      "Photograph and document BUCC events, meetings, and activities for official use.",
+      "Produce and edit video content for social media and internal communications.",
+      "Design graphics and visual assets for announcements, events, and campaigns.",
+      "Write articles, blog posts, and memos for the BUCC bi-weekly blog and official channels.",
+      "Manage and schedule content across BUCC's social media platforms consistently.",
     ],
     experienceTitle: "Capture Real Experiences",
     experienceDescription:
-      "As part of the media & communications team, you'll play a crucial role in capturing authentic moments.",
+      "We move with purpose and produce work that actually reaches people. Whether you're behind a lens, at a desk designing, or putting words together — you'll have real work to show for your time here.",
   },
   {
     slug: "community-development-committee",
