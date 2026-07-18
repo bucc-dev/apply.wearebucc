@@ -114,21 +114,21 @@ export const committees: Committee[] = [
   {
     slug: "social-committee",
     name: "Social Committee",
-    description: "Planning and executing social events and community gatherings.",
+    description: "We plan and make unforgettable events and activities that bring BUCC together.",
     intro:
-      "The Social Team plans and executes social events and community gatherings that bring members together.",
+      "This role is for creative and innovative individuals who love planning and crafting memorable experiences.",
     about:
-      "As a member of the Social Team, you'll create memorable experiences through events, hangouts, and community gatherings. You'll handle planning, coordination, and the little details that make every event special.",
+      "This role is for creative and innovative individuals who love planning and crafting memorable experiences. If you love planning, organising, building strong communities, or you have a wild imagination and the drive to make it real, then there’s a spot for you.",
     responsibilities: [
-      "Planning and executing social events and gatherings.",
-      "Coordinating logistics, venues, and schedules.",
-      "Designing engaging activities that bring members together.",
-      "Collaborating with other committees on joint events.",
-      "Capturing feedback to make each event better than the last.",
+      "Brainstorming and executing creative themes and ideas for BUCC social events.",
+      "Gathering feedback from the BUCC student body to understand what kinds of events they want next and how we can improve.",
+      "Helping with on-the-ground logistics, including venue setup, vendor management, and decorations.",
+      "Promoting upcoming activities through different methods.",
+      "Coming up with fun challenges or engaging trends for the BUCC social media(and participating, if you want to).",
     ],
     experienceTitle: "Bring People Together",
     experienceDescription:
-      "As part of the social team, you'll create the moments the community remembers.",
+      "The team will be fun, collaborative, a little chaotic, and tiny touch of weird. We’ll be the ones that works hard behind the scenes so everyone else can have a great time. Expect a supportive and passionate environment where your boldest and most creative event ideas are always welcomed and encouraged.",
   },
   {
     slug: "sports-committee",
