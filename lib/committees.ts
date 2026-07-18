@@ -181,10 +181,10 @@ export const committees: Committee[] = [
       "Curating high-quality experiences for the student body to relish",
       "Finding sponsors to fund our most far-out ideas",
       "Liaising with anyone and everyone, from Faculty Staff to other association executives, from online creators to CEOs and MDs of the largest companies/businesses",
-      "Shaping how BUCC and BTW tell their story — building campaigns, creating content, and crafting the moments and experiences that’ll keep generating buzz long after they’ve happened",
+      "Shaping how BUCC and BTW tell their story  building campaigns, creating content, and crafting the moments and experiences that’ll keep generating buzz long after they’ve happened",
     ],
     experienceTitle: "Do the Most Ambitious Work",
     experienceDescription:
-      "High intellect, questionable judgment, zero interest in doing things the normal way. Meetings on the grass, ideas that make people ask \"wait, are we allowed to do that?\" — we actively flirt with the line, but we don't cross it, and we do the most ambitious work on this campus while having the most fun in it.",
+      "High intellect, questionable judgment, zero interest in doing things the normal way. Meetings on the grass, ideas that make people ask \"wait, are we allowed to do that?\"  we actively flirt with the line, but we don't cross it, and we do the most ambitious work on this campus while having the most fun in it.",
   },
 ];

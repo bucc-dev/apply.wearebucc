@@ -77,7 +77,7 @@ export default function CommitteeDetail({ committee }: { committee: Committee })
             custom={2}
           >
             <h2 className="font-semibold text-black mb-2">{committee.experienceTitle}</h2>
-            <p className="mb-6 max-w-md text-sm text-gray-500 leading-relaxed">
+            <p className="mb-6 max-w-xl text-sm text-gray-500 leading-relaxed">
               {committee.experienceDescription}
             </p>
             {/* Desktop grid */}
