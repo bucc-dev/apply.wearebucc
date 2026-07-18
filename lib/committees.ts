@@ -76,21 +76,20 @@ export const committees: Committee[] = [
   {
     slug: "chaplaincy-committee",
     name: "Chaplaincy Committee",
-    description: "Fostering the spiritual wellbeing of the BUCC community.",
+    description: "Building a Christ-centered community through worship, prayer, fellowship, and compassionate service.",
     intro:
-      "The Chaplaincy Team fosters the spiritual wellbeing of the BUCC community through care, prayer, and support.",
+      "The Chaplaincy Committee is responsible for fostering the spiritual well-being of the department by organizing prayer meetings, Bible studies, worship services, and other faith-based activities.",
     about:
-      "As a member of the Chaplaincy Team, you'll help nurture the spiritual life of the community through devotions, support, and meaningful gatherings. You'll create a welcoming space where members feel cared for and encouraged.",
+      "The Chaplaincy Committee is responsible for fostering the spiritual well-being of the department by organizing prayer meetings, Bible studies, worship services, and other faith-based activities. We welcome students who have a heart for serving God, encouraging others, and creating an environment where everyone can grow spiritually regardless of where they are in their faith journey.",
     responsibilities: [
-      "Organizing devotions, prayer sessions, and spiritual gatherings.",
-      "Offering care and encouragement to community members.",
-      "Coordinating outreach and service-driven initiatives.",
-      "Collaborating with other committees on wellbeing programs.",
-      "Creating a welcoming and supportive community atmosphere.",
+      "Planning and coordinating departmental worship concert, prayer meetings, and Bible studies.",
+      "Help create a welcoming and spiritually uplifting atmosphere during departmental events.",
+      "Pray with and encourage students while maintaining confidentiality and compassion.",
+      "Work with the Chaplain and committee members to develop programs that promote spiritual growth and Christian fellowship.",
     ],
     experienceTitle: "Nurture the Community",
     experienceDescription:
-      "As part of the chaplaincy team, you'll help members grow in purpose, character, and faith.",
+      "Serving on the Chaplaincy Committee is an opportunity to grow spiritually while making a meaningful impact in the lives of others. You'll be part of a supportive team that values prayer, servant leadership, teamwork, and genuine fellowship.",
   },
   {
     slug: "welfare-committee",
