@@ -95,21 +95,22 @@ export const committees: Committee[] = [
   {
     slug: "welfare-committee",
     name: "Welfare Committee",
-    description: "Coordinating welfare programs, offering assistance during BUCC events.",
+    description: "Making student life better, together",
     intro:
-      "The Welfare Team coordinates welfare programs and offers assistance to keep the community thriving during BUCC events.",
+      "The Welfare Committee is the heartbeat of the department, dedicated to the physical, emotional, and social wellbeing of every student.",
     about:
-      "As a member of the Welfare Team, you'll plan welfare initiatives and provide the support that keeps members comfortable and cared for. You'll coordinate logistics during events and make sure everyone's needs are met.",
+      "The Welfare Committee is the heartbeat of the department, dedicated to the physical, emotional, and social wellbeing of every student. We identify needs, organize support initiatives, and create a space where students feel seen, heard, and cared for. If you are empathetic, community driven, and genuinely want to make a difference in people's lives, this committee is for you.",
     responsibilities: [
-      "Coordinating welfare programs and member support initiatives.",
-      "Providing assistance and logistics during BUCC events.",
-      "Gathering feedback to improve the member experience.",
-      "Collaborating with committees to address community needs.",
-      "Managing resources and refreshments for gatherings.",
+      "Identifying and responding to the welfare needs of students within the department.",
+      "Planning and executing wellbeing events, outreach programs, and support drives.",
+      "Serving as a point of contact for students who need guidance or assistance.",
+      "Source sponsorships, donations, and partnerships to support departmental events and welfare projects.",
+      "Collaborating with department leadership to advocate for student concerns and improvements.",
+      "Monitoring student welfare consistently and following up to ensure issues are resolved.",
     ],
     experienceTitle: "Care for the Community",
     experienceDescription:
-      "As part of the welfare team, you'll make sure every member feels supported and valued.",
+      "We believe in serving with compassion, working as a team, and creating a positive impact. Every member has the opportunity to contribute ideas, lead initiatives, and make a meaningful difference in students' lives.",
   },
   {
     slug: "social-committee",
