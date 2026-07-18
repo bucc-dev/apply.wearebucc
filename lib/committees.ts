@@ -133,21 +133,21 @@ export const committees: Committee[] = [
   {
     slug: "sports-committee",
     name: "Sports Committee",
-    description: "Organizing sporting activities and promoting fitness culture across BUCC.",
+    description: "Organizing, energizing, and running every game, match, and moment that brings BUCC together.",
     intro:
-      "The Sports Team organizes sporting events and promotes an active, healthy lifestyle across the BUCC community.",
+      "The Sports Committee is the engine behind BUCC's biggest live moments: the BUCC Cup, tournaments, Wellness Week, and Inter-Level Games.",
     about:
-      "As a member of the Sports Team, you'll help plan and run sporting activities, inter-faculty competitions, and fitness initiatives that bring energy and community spirit to BUCC. Whether you're passionate about a specific sport or just love bringing people together through healthy competition, this is the place for you.",
+      "The Sports Committee is the engine behind BUCC's biggest live moments: the BUCC Cup, tournaments, Wellness Week, and Inter-Level Games. We plan the fixtures, build the brackets, sort out venues and sponsors, and run match-days from kickoff to the final whistle. If you love organizing events, rallying people, chasing partnerships, or just making competition happen on the ground, this is your space.",
     responsibilities: [
-      "Organizing sporting events, tournaments, and fitness activities.",
-      "Coordinating logistics for inter-faculty and inter-club competitions.",
-      "Promoting a healthy and active lifestyle across the BUCC community.",
-      "Collaborating with other committees to integrate sports into club events.",
-      "Managing equipment, scheduling, and participation registration.",
+      "Plan and run BUCC sports events from start to finish: venues, brackets, scheduling, and match-day logistics.",
+      "Coordinate players, fixtures, and standings across tournaments and inter-level competitions.",
+      "Chase and manage sponsorships and partnerships to fund and grow our events.",
+      "Drive hype and turnout, fill brackets, rally teams, and keep the energy high before and during events.",
+      "Support media and scoring, fixtures, results, and keeping event data clean and current.",
     ],
     experienceTitle: "Play, Compete, Connect",
     experienceDescription:
-      "As part of the sports team, you'll build community through healthy competition and shared energy.",
+      "We move fast and put on events people actually remember. Whether you're building brackets, chasing sponsors, or running the touchline on match-day, you'll have real work to show for your time here, and the whole school will see it.",
   },
   {
     slug: "media-communications-committee",
