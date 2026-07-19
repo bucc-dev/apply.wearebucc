@@ -12,7 +12,6 @@ export default function ApplicationIllustration() {
   return (
     <div className="relative mx-auto aspect-square w-full max-w-sm">
 
-      {/* Dashed connecting path — draws itself in on scroll */}
       <svg
         className="absolute inset-0 h-full w-full"
         viewBox="0 0 400 400"
@@ -32,7 +31,7 @@ export default function ApplicationIllustration() {
         />
       </svg>
 
-      {/* Red circle — top left */}
+
       <motion.div
         className="absolute left-2 top-6"
         initial={{ opacity: 0, scale: 0 }}
@@ -43,7 +42,7 @@ export default function ApplicationIllustration() {
         <motion.div {...bob(0, 12, 5)} className="h-9 w-9 rounded-full bg-[#A11312]" />
       </motion.div>
 
-      {/* Purple rounded square — top right */}
+
       <motion.div
         className="absolute right-4 top-2"
         initial={{ opacity: 0, scale: 0, rotate: -20 }}
@@ -54,7 +53,7 @@ export default function ApplicationIllustration() {
         <motion.div {...bob(0.6, 14, 6)} className="h-12 w-12 rounded-xl border-2 border-black bg-[#F8DBFF]" />
       </motion.div>
 
-      {/* Yellow sparkle — mid right */}
+
       <motion.div
         className="absolute right-1 top-1/2"
         initial={{ opacity: 0, scale: 0 }}
@@ -71,7 +70,6 @@ export default function ApplicationIllustration() {
         </motion.svg>
       </motion.div>
 
-      {/* Orange small square — bottom left */}
       <motion.div
         className="absolute bottom-8 left-6"
         initial={{ opacity: 0, scale: 0, rotate: 20 }}
@@ -82,7 +80,7 @@ export default function ApplicationIllustration() {
         <motion.div {...bob(0.3, 10, 5.5)} className="h-8 w-8 rounded-lg border-2 border-black bg-[#FDD4BF]" />
       </motion.div>
 
-      {/* Blue dot — bottom right */}
+
       <motion.div
         className="absolute bottom-12 right-10"
         initial={{ opacity: 0, scale: 0 }}
@@ -93,7 +91,6 @@ export default function ApplicationIllustration() {
         <motion.div {...bob(1, 12, 6.5)} className="h-6 w-6 rounded-full border-2 border-black bg-[#C1D3FF]" />
       </motion.div>
 
-      {/* Main application card */}
       <motion.div
         className="absolute left-1/2 top-1/2 w-52 -translate-x-1/2 -translate-y-1/2"
         initial={{ opacity: 0, y: 24, scale: 0.92 }}
@@ -105,7 +102,6 @@ export default function ApplicationIllustration() {
           {...bob(0, 8, 5)}
           className="relative rounded-2xl border-2 border-black bg-white p-5 shadow-[0_8px_0_0_rgba(0,0,0,0.9)]"
         >
-          {/* Header: avatar + name bars */}
           <div className="mb-4 flex items-center gap-3">
             <div className="h-9 w-9 shrink-0 rounded-full bg-[#A11312]" />
             <div className="flex-1 space-y-1.5">
@@ -114,19 +110,15 @@ export default function ApplicationIllustration() {
             </div>
           </div>
 
-          {/* Form field bars */}
           <div className="space-y-2.5">
             <div className="h-2 w-full rounded-full bg-gray-200" />
             <div className="h-2 w-5/6 rounded-full bg-gray-200" />
             <div className="h-2 w-2/3 rounded-full bg-gray-200" />
           </div>
 
-          {/* Submit button — mirrors the hero CTA */}
           <div className="mt-5 flex h-9 items-center justify-center rounded-full border-2 border-black bg-[#ECCA0A] shadow-[0_3px_0_0_rgba(0,0,0,0.85)]">
             <div className="h-2 w-16 rounded-full bg-black/80" />
           </div>
-
-          {/* Approval badge — pops in last */}
           <motion.div
             className="absolute -right-4 -top-4 flex h-12 w-12 items-center justify-center rounded-full border-2 border-black bg-[#CCFFDE] shadow-[0_3px_0_0_rgba(0,0,0,0.85)]"
             initial={{ opacity: 0, scale: 0, rotate: -30 }}
