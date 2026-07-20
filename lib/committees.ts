@@ -39,6 +39,7 @@ export const committees: Committee[] = [
   {
     slug: "debate-committee",
     name: "Debate & Quiz Committee",
+    formLink: "https://forms.gle/4EVMFCyZK9iL2u4z8",
     description: "Sharpen your mind, strengthen your voice, and compete with the best.",
     intro:
       "The Debate & Quiz Committee is dedicated to promoting critical thinking, public speaking, intellectual curiosity, and academic excellence within BUCC.",
