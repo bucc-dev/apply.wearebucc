@@ -117,7 +117,9 @@ export default function CommitteeDetail({ committee }: { committee: Committee })
             custom={3}
           >
             <a
-              href="#"
+              href={committee.formLink || "#"}
+              target={committee.formLink ? "_blank" : "_self"}
+              rel={committee.formLink ? "noopener noreferrer" : undefined}
               className="inline-flex items-center gap-2 rounded-full bg-black px-6 py-3 text-sm font-medium text-white transition-colors hover:bg-gray-800"
             >
               Join Committee

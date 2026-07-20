@@ -7,6 +7,7 @@ export type Committee = {
   responsibilities: string[];
   experienceTitle: string;
   experienceDescription: string;
+  formLink?: string;
 };
 
 export const detailImages = [
@@ -57,6 +58,7 @@ export const committees: Committee[] = [
   {
     slug: "development-committee",
     name: "Development Committee",
+    formLink: "https://forms.gle/5QZ1hHctJnb3JanH6",
     description: "Working with other committees to deliver technology driven solutions.",
     intro:
       "The Development Team works with other committees to build and deliver technology-driven solutions for the community.",
@@ -171,6 +173,7 @@ export const committees: Committee[] = [
   {
     slug: "community-development-committee",
     name: "Community Development Committee",
+    formLink: "https://forms.gle/djnviAKhKWexq1QG6",
     description: "Radically redefining not just what it means to be in BUCC, but what BUCC itself is.",
     intro:
       "We’re a team handling major initiatives like Babcock Tech Week, while also taking on special assignments that require tact, autonomy, and discretion.",
