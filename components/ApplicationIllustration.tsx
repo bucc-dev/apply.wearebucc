@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 
-// Gentle infinite bob — wrap in an outer entrance motion.div so both can run.
+
 const bob = (delay: number, distance = 10, duration = 4) => ({
   animate: { y: [0, -distance, 0] },
   transition: { duration, repeat: Infinity, ease: "easeInOut" as const, delay },
