@@ -52,7 +52,7 @@ export default function Navbar() {
           ))}
         </ul>
 
-        {/* Apply now button */}
+    
         <button
           onClick={() => goToSection("committees")}
           className="bg-black text-white font-medium rounded-full hover:bg-gray-800 transition-colors text-xs px-3 h-8 flex items-center md:text-sm md:px-5 md:h-10"
