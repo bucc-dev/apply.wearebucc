@@ -135,6 +135,7 @@ export const committees: Committee[] = [
     experienceTitle: "Bring People Together",
     experienceDescription:
       "The team will be fun, collaborative, a little chaotic, and tiny touch of weird. We’ll be the ones that works hard behind the scenes so everyone else can have a great time. Expect a supportive and passionate environment where your boldest and most creative event ideas are always welcomed and encouraged.",
+    formLink: "https://forms.gle/U3hD3sZTfH5ZPFMv9",
   },
   {
     slug: "sports-committee",
