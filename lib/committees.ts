@@ -174,6 +174,7 @@ export const committees: Committee[] = [
     experienceTitle: "Capture Real Experiences",
     experienceDescription:
       "We move with purpose and produce work that actually reaches people. Whether you're behind a lens, at a desk designing, or putting words together — you'll have real work to show for your time here.",
+    formLink: "https://forms.gle/YhBfr8pz4s1fAg31A",
   },
   {
     slug: "community-development-committee",
