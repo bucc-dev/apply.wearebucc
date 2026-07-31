@@ -113,6 +113,7 @@ export const committees: Committee[] = [
     experienceTitle: "Care for the Community",
     experienceDescription:
       "We believe in serving with compassion, working as a team, and creating a positive impact. Every member has the opportunity to contribute ideas, lead initiatives, and make a meaningful difference in students' lives.",
+    formLink: "https://forms.gle/W5rt8omBJVh6mZhx5",
   },
   {
     slug: "social-committee",
