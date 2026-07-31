@@ -155,6 +155,7 @@ export const committees: Committee[] = [
     experienceTitle: "Play, Compete, Connect",
     experienceDescription:
       "We move fast and put on events people actually remember. Whether you're building brackets, chasing sponsors, or running the touchline on match-day, you'll have real work to show for your time here, and the whole school will see it.",
+    formLink: "https://forms.gle/GE9qgv8b4BHXhjKx9",
   },
   {
     slug: "media-communications-committee",
