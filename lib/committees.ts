@@ -94,6 +94,7 @@ export const committees: Committee[] = [
     experienceTitle: "Nurture the Community",
     experienceDescription:
       "Serving on the Chaplaincy Committee is an opportunity to grow spiritually while making a meaningful impact in the lives of others. You'll be part of a supportive team that values prayer, servant leadership, teamwork, and genuine fellowship.",
+    formLink: "https://forms.gle/81eQwLZJ5QTBVnfe9",
   },
   {
     slug: "welfare-committee",
