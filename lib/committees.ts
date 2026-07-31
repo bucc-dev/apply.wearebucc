@@ -35,6 +35,7 @@ export const committees: Committee[] = [
     experienceTitle: "Build a Culture of Learning",
     experienceDescription:
       "A community where sharing knowledge strengthens our own understanding while making learning easier for others.",
+    formLink: "https://forms.gle/cwJXrpRffQsqrt9u6",
   },
   {
     slug: "debate-committee",
